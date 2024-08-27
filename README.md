@@ -77,4 +77,5 @@ While developing this project, I gained new knowledge in these areas:
 ### 1. How to Handle Google's API
 - Understanding some of the code for handling the API is still confusing but I have created a Google Cloud Project so many times during this project.
 
-### 2. How to use git
+### 2. How to use Git
+- Understanding how to use Git, upload files onto GitHub, how to handle branches, and how to use a .gitignore file to prevent personal documents from being tracked.
